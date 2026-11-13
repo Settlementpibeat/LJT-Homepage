@@ -40,6 +40,30 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 - **Research Intern** (June 2023 - December 2023)  
   Shanghai AI Lab, advised by Prof. Yu Cheng
 
+## Selected Publications
+
+### First-author Publications
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)  
+   *Junteng Liu* et al.
+
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv)  
+   *Junteng Liu* et al.
+
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)  
+   *Junteng Liu*, Shiqi Chen, Yu Cheng, Junxian He.
+
+### Co-authored Publications
+1. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)  
+   Shiqi Chen, Miao Xiong, *Junteng Liu*, et al.
+
+2. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)  
+   Yuzhen Huang, ..., *Junteng Liu*, ..., Junxian He.
+
+3. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)  
+   Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He.
+
+[View full publication list →](/publications/)
+
 ## Contact
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)

@@ -40,7 +40,7 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 - **Research Intern** (June 2023 - December 2023)  
   Shanghai AI Lab, advised by Prof. Yu Cheng
 
-## Selected Publications
+## Publications
 
 ### First-author Publications
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)  

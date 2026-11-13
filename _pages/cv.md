@@ -47,12 +47,6 @@ author_profile: true
 2. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
 3. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
 
-## Skills
-
-- **Programming**: Python, PyTorch
-- **Research**: Large Language Models, Vision-Language Models, Reinforcement Learning
-- **Languages**: English, Mandarin Chinese
-
 ## Contact
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)

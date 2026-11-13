@@ -1,64 +1,61 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Junteng Liu
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Computer Science** (2024 - Present)  
+  Hong Kong University of Science and Technology (HKUST)  
+  HKUST NLP Group, advised by Professor Junxian He
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **B.Eng.** (2020 - 2024)  
+  Shanghai Jiao Tong University (SJTU)  
+  *Zhiyuan Honor Scholarship*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Research Intern** (February 2025 - Present)  
+  MINIMAX
+
+- **Research Intern** (June 2024 - September 2024)  
+  Tencent WXG, advised by Zifei Shan
+
+- **Research Intern** (June 2023 - December 2023)  
+  Shanghai AI Lab, advised by Prof. Yu Cheng
+
+## Research Interests
+
+- Natural Language Processing (NLP)
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
+
+## Publications
+
+### First-author Publications
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv)
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
+
+### Co-authored Publications
+1. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+2. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+3. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
+
+## Skills
+
+- **Programming**: Python, PyTorch
+- **Research**: Large Language Models, Vision-Language Models, Reinforcement Learning
+- **Languages**: English, Mandarin Chinese
+
+## Contact
+
+- Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- GitHub: [Vicent0205](https://github.com/Vicent0205)
+- Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- X (Twitter): [@junteng88716710](https://x.com/junteng88716710)
